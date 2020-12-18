@@ -7,16 +7,15 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: The Ftbl Chapter                          # the main title
+title: Aezi's Locker                     # the main title
 
-tagline: A football-focused blog.  # it will display as the sub-title
+tagline: My locker of thoughts  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A football focus blog owned by aezi, which goes through all of my football views and perspective whether it is about manchester city as well as the sport in general, 
-  other competitions, specific players and other teams. This also includes my general opinion on football transfers and my personal predictions for specific titles.
+  All my thoughts unleashed and shown to the world on multiple topics, time to face the past and be alive.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'http://ftbl.aezlo.com'
+url: 'http://bl.aezlo.com'
 
 author: aezi                  # change to your full name
 
