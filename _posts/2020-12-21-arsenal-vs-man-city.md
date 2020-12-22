@@ -1,7 +1,7 @@
 ---
 title: Prediction for Arsenal (Carabao Cup)
 author: Aezi
-date: 2020-12-22 00:04:00
+date: 2020-12-22 00:06:00
 categories: football
 tags: carabao
 toc: false
