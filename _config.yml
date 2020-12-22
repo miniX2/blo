@@ -1,25 +1,17 @@
-# The Site Settings
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
-
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Aezi's Locker                     # the main title
+title: aezi's allusions                     # the main title
 
-tagline: My locker of thoughts  # it will display as the sub-title
+tagline: living blue for the thrill  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  All my thoughts unleashed and shown to the world on multiple topics, time to face the past and be alive.
+  All my thoughts unleashed and shown to the world on multiple topics.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'http://bl.aezlo.com'
 
 author: aezi                  # change to your full name
 
-avatar: /assets/img/sample/aezi.jpg   # support internet resources
+avatar: /assets/img/favicons/android-icon-192x192.png   # support internet resources
 
 github:
   username: minichest             # change to your github username
